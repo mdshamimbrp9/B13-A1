@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+/* Global style  */
+.main-container {
+  width: 1360px;
+  max-width: 1360px;
+}
+.btn {
+
+}
+.p-text {
+  
+}
