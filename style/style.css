@@ -72,7 +72,7 @@ nav .menu ul li a {
 
 /* banner-section-design */
 #banner {
-  background-image: url(/assets/hero-bg.png);
+  background-image: url("/assets/hero-bg.png");
   background-position: center;
   background-size: cover;
 }
