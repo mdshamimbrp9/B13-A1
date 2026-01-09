@@ -74,7 +74,7 @@ nav .menu ul li a {
 #banner {
   background-position: center;
   background-size: cover;
-  background-image: url("/hero-bg.png");
+  background-image: url(../hero-bg.png);
 }
 #banner .main-container {
   text-align: center;
